@@ -21,7 +21,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,nestjs,python,fastapi,java,cpp,dart,flutter,postgres,docker,git,github,linux,vscode,figma&theme=light&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,nestjs,python,fastapi,java,spring,dart,flutter,postgres,docker,git,github,linux,figma&theme=light&perline=11" />
 </p>
 
 ## Featured projects
@@ -29,9 +29,11 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[Seksa](https://seksa.me)** | Scholarship discovery platform for Cambodian students, in English and Khmer | React · FastAPI · PostgreSQL |
+| **[ChlatVei](https://github.com/Sor-Channorakpitou/ChlatVei)** | Cambodian digital citizen platform with clear, verified guidance for public services | TypeScript · Python · Docker |
 | **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)** | Clinic management system with receptionist, nurse, doctor, pharmacy and admin roles | JavaScript |
-| **[e-commerce_backbone](https://github.com/Sor-Channorakpitou/e-commerce_backbone)** | Backend foundation for an e-commerce app | TypeScript |
-| **[habit-tracker](https://github.com/Sor-Channorakpitou/habit-tracker)** | Track daily habits and streaks | TypeScript |
+| **[Core Banking](https://github.com/Sor-Channorakpitou/Banking)** | Core banking API with a double-entry ledger, JWT auth and safe concurrent transfers | Java · Spring Boot · Docker |
+| **[KjelNas](https://github.com/Sor-Channorakpitou/KjelNas)** | Offline anti-procrastination app that makes starting a task tiny | Flutter · Dart |
+| **[RoomieMatch](https://github.com/Sor-Channorakpitou/Roommate_Compatibility_App-Techpreneur)** | Roommate compatibility matching for university students in Phnom Penh | React · TypeScript · Tailwind |
 
 ## GitHub stats
 
