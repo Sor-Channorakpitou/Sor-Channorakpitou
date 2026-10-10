@@ -44,6 +44,12 @@
   <img src="https://streak-stats.demolab.com?user=Sor-Channorakpitou&hide_border=true&border_radius=12&background=FFFFFF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=334155&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=94A3B8" />
 </p>
 
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sor-Channorakpitou/Sor-Channorakpitou/output/snake.svg" alt="Snake eating my contribution graph" />
+</p>
+
 ## Activity
 
 <p align="center">
