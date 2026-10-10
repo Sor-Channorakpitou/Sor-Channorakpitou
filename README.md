@@ -33,27 +33,18 @@
 | **Seksa mobile** | Mobile app for the Seksa scholarship platform, using the same accounts and data | Flutter · Dart |
 | **Seksa for Kids** | Khmer-first coding platform for kids aged 10–12, with robot puzzles, real Python in the browser and an AI mentor | Next.js · TypeScript · Supabase |
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sor-Channorakpitou&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=334155&icon_color=8b5cf6&ring_color=6366f1&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sor-Channorakpitou&layout=compact&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=334155&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sor-Channorakpitou&hide_border=true&border_radius=12&background=FFFFFF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=334155&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=94A3B8" />
-</p>
-
 ## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sor-Channorakpitou/Sor-Channorakpitou/refs/heads/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
-## Activity
+## Connect with me
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=Sor-Channorakpitou&bg_color=ffffff&color=334155&line=6366f1&point=8b5cf6&area=true&area_color=a5b4fc&hide_border=true&radius=12" />
+  <a href="mailto:pitousorchannorak14@gmail.com"><img src="https://img.shields.io/badge/Email-pitousorchannorak14%40gmail.com-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=gmail&logoColor=6366f1" /></a>
+  <a href="https://seksa.me"><img src="https://img.shields.io/badge/Website-seksa.me-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=googlechrome&logoColor=6366f1" /></a>
+  <a href="https://t.me/seksa_kh"><img src="https://img.shields.io/badge/Telegram-Seksa%20channel-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=telegram&logoColor=6366f1" /></a>
 </p>
 
 <p align="center">
