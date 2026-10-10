@@ -47,7 +47,7 @@
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sor-Channorakpitou/Sor-Channorakpitou/output/snake.svg" alt="Snake eating my contribution graph" />
+  <img src="https://raw.githubusercontent.com/Sor-Channorakpitou/Sor-Channorakpitou/refs/heads/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
 ## Activity
