@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Full-stack+with+React+%2B+Node.js;Building+MedFlow+%E2%80%94+clinic+management;Learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Building+Seksa+%E2%80%94+scholarships+for+Cambodian+students;Full-stack+with+React+%2B+Node.js;Learning+something+new+every+day" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## About me
 
 - I'm a software engineering student building full-stack web apps
-- My main project is **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)**, a clinic management system
+- My main projects are **[Seksa](https://seksa.me)**, **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)**, Seksa mobile and Seksa for Kids
 - Ask me about **React, Node.js, Express and PostgreSQL**
 - Reach me at **pitousorchannorak14@gmail.com**
 
@@ -24,11 +24,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,prisma,postgres,git,github&theme=light&perline=13" />
 </p>
 
-## Featured project
+## Main projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| **[Seksa](https://seksa.me)** | Scholarship discovery platform for Cambodian students, in English and Khmer | React · FastAPI · PostgreSQL |
 | **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)** | Clinic management system with receptionist, nurse, doctor, pharmacy and admin roles, live queue updates and PDF invoices | React · Node.js · Express · Prisma · PostgreSQL |
+| **Seksa mobile** | Mobile app for the Seksa scholarship platform, using the same accounts and data | Flutter · Dart |
+| **Seksa for Kids** | Khmer-first coding platform for kids aged 10–12, with robot puzzles, real Python in the browser and an AI mentor | Next.js · TypeScript · Supabase |
 
 ## GitHub stats
 
