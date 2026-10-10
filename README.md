@@ -44,12 +44,6 @@
   <img src="https://streak-stats.demolab.com?user=Sor-Channorakpitou&hide_border=true&border_radius=12&background=FFFFFF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=334155&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=94A3B8" />
 </p>
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sor-Channorakpitou&theme=flat&no-frame=true&margin-w=6&row=1&column=6" />
-</p>
-
 ## Activity
 
 <p align="center">
