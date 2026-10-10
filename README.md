@@ -47,13 +47,13 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sor-Channorakpitou&theme=flat&no-frame=true&margin-w=6&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=Sor-Channorakpitou&theme=flat&no-frame=true&margin-w=6&row=1&column=6" />
 </p>
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sor-Channorakpitou&bg_color=ffffff&color=334155&line=6366f1&point=8b5cf6&area=true&area_color=a5b4fc&hide_border=true&radius=12" />
+  <img src="https://activity-graph.vercel.app/graph?username=Sor-Channorakpitou&bg_color=ffffff&color=334155&line=6366f1&point=8b5cf6&area=true&area_color=a5b4fc&hide_border=true&radius=12" />
 </p>
 
 <p align="center">
