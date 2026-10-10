@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Building+Seksa+%E2%80%94+scholarships+for+Cambodian+students;Full-stack+with+React+%2B+FastAPI;Learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Full-stack+with+React+%2B+Node.js;Building+MedFlow+%E2%80%94+clinic+management;Learning+something+new+every+day" />
 </p>
 
 <p align="center">
@@ -13,27 +13,22 @@
 
 ## About me
 
-- I'm currently building **[Seksa](https://seksa.me)**, a scholarship platform that helps Cambodian students find and apply for scholarships
-- I'm learning **NestJS, Flutter and system design**
-- Ask me about **web development, React, FastAPI and databases**
+- I'm a software engineering student building full-stack web apps
+- My main project is **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)**, a clinic management system
+- Ask me about **React, Node.js, Express and PostgreSQL**
 - Reach me at **pitousorchannorak14@gmail.com**
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,nestjs,python,fastapi,java,spring,dart,flutter,postgres,docker,git,github,linux,figma&theme=light&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,prisma,postgres,git,github&theme=light&perline=13" />
 </p>
 
-## Featured projects
+## Featured project
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[Seksa](https://seksa.me)** | Scholarship discovery platform for Cambodian students, in English and Khmer | React · FastAPI · PostgreSQL |
-| **[ChlatVei](https://github.com/Sor-Channorakpitou/ChlatVei)** | Cambodian digital citizen platform with clear, verified guidance for public services | TypeScript · Python · Docker |
-| **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)** | Clinic management system with receptionist, nurse, doctor, pharmacy and admin roles | JavaScript |
-| **[Core Banking](https://github.com/Sor-Channorakpitou/Banking)** | Core banking API with a double-entry ledger, JWT auth and safe concurrent transfers | Java · Spring Boot · Docker |
-| **[KjelNas](https://github.com/Sor-Channorakpitou/KjelNas)** | Offline anti-procrastination app that makes starting a task tiny | Flutter · Dart |
-| **[RoomieMatch](https://github.com/Sor-Channorakpitou/Roommate_Compatibility_App-Techpreneur)** | Roommate compatibility matching for university students in Phnom Penh | React · TypeScript · Tailwind |
+| **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)** | Clinic management system with receptionist, nurse, doctor, pharmacy and admin roles, live queue updates and PDF invoices | React · Node.js · Express · Prisma · PostgreSQL |
 
 ## GitHub stats
 
