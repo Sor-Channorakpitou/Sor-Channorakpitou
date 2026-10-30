@@ -31,7 +31,6 @@
 | **[Seksa](https://seksa.me)** | Scholarship discovery platform for Cambodian students, in English and Khmer | React · FastAPI · PostgreSQL |
 | **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)** | Clinic management system with receptionist, nurse, doctor, pharmacy and admin roles, live queue updates and PDF invoices | React · Node.js · Express · Prisma · PostgreSQL |
 | **Seksa mobile** | Mobile app for the Seksa scholarship platform, using the same accounts and data | Flutter · Dart |
-| **Seksa for Kids** | Khmer-first coding platform for kids aged 10–12, with robot puzzles, real Python in the browser and an AI mentor | Next.js · TypeScript · Supabase |
 
 ## Contributions
 
