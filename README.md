@@ -14,7 +14,7 @@
 ## About me
 
 - I'm a software engineering student building full-stack web apps
-- My main projects are **[Seksa](https://seksa.me)**, **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)**, Seksa mobile and Seksa for Kids
+- My main projects are **[Seksa](https://seksa.me)**, **[MedFlow](https://github.com/Sor-Channorakpitou/MedFlow)**,
 - Ask me about **React, Node.js, Express and PostgreSQL**
 - Reach me at **pitousorchannorak14@gmail.com**
 
