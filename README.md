@@ -21,7 +21,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,prisma,postgres,git,github&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,tailwind,nodejs,express,prisma,postgres,git,github&theme=light&perline=13" />
 </p>
 
 ## Main projects
