@@ -41,7 +41,6 @@
 <p align="center">
   <a href="mailto:pitousorchannorak14@gmail.com"><img src="https://img.shields.io/badge/Email-pitousorchannorak14%40gmail.com-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=gmail&logoColor=6366f1" /></a>
   <a href="https://seksa.me"><img src="https://img.shields.io/badge/Website-seksa.me-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=googlechrome&logoColor=6366f1" /></a>
-  <a href="https://t.me/seksa_kh"><img src="https://img.shields.io/badge/Telegram-Seksa%20channel-eef2ff?style=for-the-badge&labelColor=e0e7ff&color=eef2ff&logo=telegram&logoColor=6366f1" /></a>
 </p>
 
 <p align="center">
